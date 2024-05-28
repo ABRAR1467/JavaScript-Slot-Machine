@@ -15,8 +15,7 @@ const SYMBOLS_COUNT = {
         A: 2,
         B: 4,
         C: 6,
-        D: 8,
-        E : 10
+        D: 8
 }
 //console.log(SYMBOLS_COUNT["A"]) = 2
 const SYMBOL_VALUES = {
